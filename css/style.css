@@ -1,0 +1,50 @@
+﻿.branding{
+    font-size:17px;
+}
+
+.showcase{
+    background:url('../img/hepburn2-hero.jpg') no-repeat;
+    height: 600px;
+    padding:50px 190px;
+    color:#fff;
+}
+
+.showcase h1{
+    font-size: 40px;
+    font-weight: 1000;
+}
+
+.showcase hr{
+    align-content: center;
+    width:500px;
+    margin:auto;
+    border-width:3px;
+    border-color:	#008000
+}
+
+.showcase p {
+    font-size:16px;
+    padding-bottom:20px;
+}
+
+.section{
+    padding:40px 0;
+    text-align: center;
+}
+
+.section h2{
+    padding:0;
+    margin:0;
+}
+
+.section .fa{
+    font-size:50px;
+}
+
+.section p{
+    text-align: justify
+}
+
+.section hr{
+    border-color: #d3d3d3;
+}
