@@ -5,7 +5,7 @@
 .showcase{
     background:url('../img/hepburn2-hero.jpg') no-repeat;
     height: 600px;
-    padding:50px 190px;
+    padding:50px 130px;
     color:#fff;
 }
 
@@ -24,7 +24,7 @@
 
 .showcase p {
     font-size:16px;
-    padding-bottom:20px;
+    padding-bottom:20px 0;
 }
 
 .section{
@@ -47,4 +47,10 @@
 
 .section hr{
     border-color: #d3d3d3;
+}
+
+@media only screen and (max-width:600px){
+    body{
+        margin-top: 190px;
+        padding: 60px 0;
 }
